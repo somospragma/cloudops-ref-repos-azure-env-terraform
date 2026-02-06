@@ -1,6 +1,6 @@
 # 🌐 Redes y Conectividad - Nova BackEnd
 
-Este documento detalla el diseño de red de la capa BackEnd de Nova Digital, basado en la VNet, subredes, NSG y rutas UDR definidas en locals_network.tf y main.tf.
+Este documento detalla el diseño de red de la capa BackEnd de , basado en la VNet, subredes, NSG y rutas UDR definidas en locals_network.tf y main.tf.
 
 ## VNet principal
 

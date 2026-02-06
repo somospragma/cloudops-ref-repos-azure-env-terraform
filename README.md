@@ -1,6 +1,6 @@
-# 🏗️ IaC BackEnd - Nova Digital
+# 🏗️ IaC BackEnd
 
-Este repositorio contiene la infraestructura como código (IaC) de la capa **BackEnd** de **Nova Digital**, desplegada en Microsoft Azure mediante **Terraform** y **Azure DevOps Pipelines**, siguiendo los lineamientos de seguridad corporativos del banco y el Azure Well-Architected Framework.
+Este repositorio contiene la infraestructura como código (IaC), desplegada en Microsoft Azure mediante **Terraform** y **Azure DevOps Pipelines**, siguiendo los lineamientos de seguridad corporativos del banco y el Azure Well-Architected Framework.
 
 ## 📚 Documentación
 

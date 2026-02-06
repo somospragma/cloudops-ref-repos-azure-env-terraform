@@ -1,6 +1,6 @@
 # 🧰 Tecnologías y Componentes - Nova BackEnd
 
-Este documento detalla las principales tecnologías utilizadas en la infraestructura como código de la capa BackEnd de Nova Digital.
+Este documento detalla las principales tecnologías utilizadas en la infraestructura como código de la capa BackEnd de .
 
 ## 🧱 Infraestructura como Código
 

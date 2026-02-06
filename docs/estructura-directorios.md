@@ -1,6 +1,6 @@
-# 📂 Estructura de Directorios - Nova Digital BackEnd
+# 📂 Estructura de Directorios - 
 
-Esta sección describe la estructura del repositorio de IaC para la capa **BackEnd** de Nova Digital.
+Esta sección describe la estructura del repositorio de IaC para la capa **BackEnd** de .
 
 ```text
 .

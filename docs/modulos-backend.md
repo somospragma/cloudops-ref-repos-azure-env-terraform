@@ -1,6 +1,6 @@
-# 🧩 Módulos Terraform BackEnd - Nova Digital
+# 🧩 Módulos Terraform BackEnd - 
 
-Este documento resume los **módulos Terraform** utilizados en la capa BackEnd de Nova Digital, qué servicios crean y cómo se relacionan entre sí. Sirve como guía rápida para que alguien nuevo entienda “qué módulo hace qué”.
+Este documento resume los **módulos Terraform** utilizados en la capa BackEnd de , qué servicios crean y cómo se relacionan entre sí. Sirve como guía rápida para que alguien nuevo entienda “qué módulo hace qué”.
 
 > Nota: Los nombres de módulos y fuentes corresponden al código de `envs/dev/main.tf` (y se replican en QA/PRD con los mismos módulos y distinta parametrización).
 

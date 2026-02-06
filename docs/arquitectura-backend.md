@@ -1,10 +1,9 @@
-# 🏗️ Arquitectura BackEnd - Nova Digital
+# 🏗️ Arquitectura BackEnd
 
-Esta sección describe la arquitectura de infraestructura de la capa **BackEnd** de Nova Digital implementada con Terraform sobre Microsoft Azure.
+Esta sección describe la arquitectura de infraestructura de la capa **BackEnd** de  implementada con Terraform sobre Microsoft Azure.
 
 ## 🎯 Alcance
-
-- Capa **BackEnd** del proyecto Nova Digital.  
+ 
 - Entornos: **DEV**, **QA**, **PRD** (carpeta `envs/`).  
 - Control de despliegue exclusivamente mediante **pipelines de Azure DevOps** usando la plantilla corporativa de IAC.
 

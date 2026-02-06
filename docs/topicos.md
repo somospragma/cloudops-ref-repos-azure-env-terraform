@@ -1,6 +1,6 @@
 # 🎯 Tópicos Principales - IaC Nova BackEnd
 
-Este documento resume los principales tópicos de la solución de infraestructura como código para la capa BackEnd de Nova Digital.
+Este documento resume los principales tópicos de la solución de infraestructura como código para la capa BackEnd de .
 
 ## 📌 Tópicos
 

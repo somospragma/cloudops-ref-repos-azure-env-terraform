@@ -1,6 +1,6 @@
 # 📊 Parámetros de la IaC - Nova BackEnd
 
-Este documento resume los parámetros principales de Terraform usados para configurar la infraestructura BackEnd de Nova Digital.
+Este documento resume los parámetros principales de Terraform usados para configurar la infraestructura BackEnd de .
 
 > **Nota de Reutilización**: En este repositorio de referencia se incluye un archivo `terraform.tfvars` con valores de ejemplo (típicamente DEV). Para un proyecto real multidimensional, se deben crear archivos `dev.tfvars`, `qa.tfvars` y `prod.tfvars` con los valores específicos de cada ambiente.
 

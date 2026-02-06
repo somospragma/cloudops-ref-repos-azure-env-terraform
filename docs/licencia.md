@@ -1,6 +1,6 @@
 # 📄 Licencia
 
-Este repositorio forma parte del ecosistema interno de Nova Digital y Mercantil Banco.
+Este repositorio forma parte del ecosistema interno de  y Mercantil Banco.
 
 Su uso está restringido al personal autorizado y a los proveedores habilitados por el banco. No se permite su redistribución fuera de la organización sin autorización expresa.
 

@@ -1,6 +1,6 @@
-# 📖 Documentación IAC - Nova Digital BackEnd
+# 📖 Documentación IAC -  BackEnd
 
-Esta documentación describe la infraestructura como código (IaC) de la capa **BackEnd** del proyecto **Nova Digital** en Azure, implementada con **Terraform** y desplegada mediante **Azure DevOps Pipelines** usando la plantilla corporativa de IAC.
+Esta documentación describe la infraestructura como código (IaC) de la capa **BackEnd** del proyecto **** en Azure, implementada con **Terraform** y desplegada mediante **Azure DevOps Pipelines** usando la plantilla corporativa de IAC.
 
 La solución está alineada con los lineamientos de seguridad corporativos del banco y con los cinco pilares del **Azure Well-Architected Framework**:
 

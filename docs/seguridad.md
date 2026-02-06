@@ -1,6 +1,6 @@
 # 🔐 Seguridad y Cumplimiento - Nova BackEnd
 
-Este documento describe los controles de seguridad aplicados en la infraestructura BackEnd de Nova Digital, alineados con los lineamientos de seguridad corporativos del banco y el pilar de Seguridad del Azure Well-Architected Framework.
+Este documento describe los controles de seguridad aplicados en la infraestructura BackEnd de , alineados con los lineamientos de seguridad corporativos del banco y el pilar de Seguridad del Azure Well-Architected Framework.
 
 ## Principios generales
 

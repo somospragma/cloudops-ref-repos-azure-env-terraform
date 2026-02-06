@@ -1,6 +1,6 @@
-# 🏗️ IaC BackEnd - Nova Digital (Wiki Azure DevOps)
+# 🏗️ IaC BackEnd -  (Wiki Azure DevOps)
 
-> Documentación ejecutiva para la wiki de Azure DevOps sobre la infraestructura como código (IaC) de la capa **BackEnd** de **Nova Digital**, desplegada en Azure con **Terraform** y **Azure DevOps Pipelines**.
+> Documentación ejecutiva para la wiki de Azure DevOps sobre la infraestructura como código (IaC) de la capa **BackEnd** de ****, desplegada en Azure con **Terraform** y **Azure DevOps Pipelines**.
 
 ---
 
@@ -16,7 +16,7 @@
 
 # 🎯 Descripción del Proyecto
 
-La capa **BackEnd** de Nova Digital se implementa completamente mediante **infraestructura como código (IaC)** usando **Terraform** y se despliega a través de **Azure DevOps Pipelines**, extendiendo la plantilla corporativa `mercantil-pipeline-template-IAC`.
+La capa **BackEnd** de ente mediante **infraestructura como código (IaC)** usando **Terraform** y se despliega a través de **Azure DevOps Pipelines**, extendiendo la plantilla corporativa `mercantil-pipeline-template-IAC`.
 
 ## Propósito
 
@@ -29,7 +29,7 @@ Estandarizar y automatizar la provisión de la infraestructura BackEnd en Azure,
 
 ## Alcance
 
-- Capa **BackEnd** del ecosistema Nova Digital.
+- Capa **BackEnd** del ecosistema 
 - Entornos: **DEV**, **QA** y **PRD** (carpeta `envs/`).
 - Uso de módulos Terraform corporativos alojados en el repositorio `nova-digital-infraestructure-core-tf` en Azure DevOps.
 - Despliegues controlados exclusivamente por pipelines YAML (`azure-pipelines.yml`).
@@ -330,4 +330,4 @@ La lógica detallada de CI/CD (stages, jobs, tareas) vive en `mercantil-pipeline
 
 ---
 
-**Documento Wiki generado para la IaC BackEnd de Nova Digital** | **CloudOps / Arquitectura de Nube** | **Enero 2026**
+**Documento Wiki generado para la IaC BackEnd de Ops / Arquitectura de Nube** | **Enero 2026**

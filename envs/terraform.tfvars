@@ -12,7 +12,7 @@ location_primary = "eastus"
 ################################################
 tags = {
   role        = "FrontEnd"
-  Application = "Nova Digital"
+  Application = "BC"
   CostCenter  = "NOVA-FE"
   IaC         = "Terraform Cloud"
   Layer       = "FrontEnd"

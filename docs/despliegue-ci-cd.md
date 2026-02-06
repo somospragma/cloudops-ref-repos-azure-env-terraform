@@ -1,6 +1,6 @@
 # 🚀 Despliegue CI/CD - Nova BackEnd
 
-Este documento describe el flujo de CI/CD para la infraestructura BackEnd de Nova Digital utilizando **Azure DevOps Pipelines** y la plantilla corporativa de IAC.
+Este documento describe el flujo de CI/CD para la infraestructura BackEnd de  utilizando **Azure DevOps Pipelines** y la plantilla corporativa de IAC.
 
 ## 🧩 Estructura del pipeline
 
