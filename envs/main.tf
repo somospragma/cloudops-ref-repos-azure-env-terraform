@@ -656,29 +656,29 @@ module "app_configuration" {
 
 }
 
-###############################################
-# Routes in Networking
-###############################################
-module "route_table_fortigate" {
-  source              = "./modules/azure_route"
-  route_table_name    = local.route_table_fortigate
-  location            = module.resource_groups.resource_groups[local.rg_network].location
-  resource_group_name = module.resource_groups.resource_groups[local.rg_network].name
-  routes              = local.all_routes
-  subnet_ids = {
-    for subnet_name, subnet_config in local.subnet_routes_map :
-    subnet_name => module.subnets.subnet_ids[subnet_name]
-  }
+# ###############################################
+# # Routes in Networking
+# ###############################################
+# module "route_table_fortigate" {
+#   source              = "./modules/azure_route"
+#   route_table_name    = local.route_table_fortigate
+#   location            = module.resource_groups.resource_groups[local.rg_network].location
+#   resource_group_name = module.resource_groups.resource_groups[local.rg_network].name
+#   routes              = local.all_routes
+#   subnet_ids = {
+#     for subnet_name, subnet_config in local.subnet_routes_map :
+#     subnet_name => module.subnets.subnet_ids[subnet_name]
+#   }
 
-  tags = local.tags
+#   tags = local.tags
 
-  #   lifecycle = {
-  #   prevent_destroy = true
-  #   ignore_changes =  [tags]
-  # }    
+#   #   lifecycle = {
+#   #   prevent_destroy = true
+#   #   ignore_changes =  [tags]
+#   # }    
 
-  depends_on = [module.subnets]
-}
+#   depends_on = [module.subnets]
+# }
 
 ################################################
 #  Private DNS Zones
