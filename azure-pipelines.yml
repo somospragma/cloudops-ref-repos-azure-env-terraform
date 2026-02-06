@@ -1,0 +1,20 @@
+trigger:
+  branches:
+    include:
+      - main
+      - develop
+      - release
+
+  paths:
+    exclude:
+      - azure-pipelines.yml
+
+resources:
+  repositories:
+    - repository: pipelines-templates-iac
+      type: git
+      ref: main
+      name: pipelines-templates-iac
+
+extends:
+  template: main.yml@pipelines-templates-iac

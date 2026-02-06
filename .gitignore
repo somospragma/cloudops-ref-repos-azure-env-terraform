@@ -1,0 +1,44 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Ignore .terraform directory
+.terraform/
+envs/dev/.terraform/
+envs/qa/.terraform/
+envs/prod/.terraform/
+
+envs/dev/.terraform*
+envs/qa/.terraform*
+envs/prod/.terraform*
+
+envs/dev/.terraform.*
+envs/qa/.terraform.*
+envs/prod/.terraform.*
+
+# Sensitive variable files
+#*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+.terraform.*
+
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform plan output
+*.plan
+
+# Local .terraform-docs
+.terraform-docs.yml
+
+# IDE/editor junk
+.vscode/
+.idea/
+.DS_Store
